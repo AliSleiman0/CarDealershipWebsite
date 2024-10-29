@@ -1,0 +1,11 @@
+superadmin:
+Email: john.doe@example.com
+Pass: admin
+
+admin: 
+Email: teste@exemplo.us
+Pass: teste
+
+customer:
+Email: pep@gmail.com
+Pass: pep

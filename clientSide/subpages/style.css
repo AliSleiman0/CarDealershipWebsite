@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .navbar-brand:hover,
+.navbar .nav-link:hover {
+    color: #007bff;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.container h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.container p {
+    color: #555;
+}
